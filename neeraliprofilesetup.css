@@ -1,0 +1,10 @@
+
+body {
+  background: lightPink no-repeat fixed center;
+}
+
+h1 {
+  font-family: 'Lobster';
+  font-weight: lighter;
+  font-size: 50px; 
+}
